@@ -28,11 +28,11 @@
   color: white;
 }
 
-/* .ant-menu-submenu:hover
+.ant-menu-submenu:hover
    .ant-menu-submenu-title
   > .ant-menu-submenu-expand-icon,
-.ant-menu-submenu, .ant-menu-submenu-title > */
-.ant-menu-submenu-title,.ant-menu-submenu-arrow, 
+.ant-menu-submenu, .ant-menu-submenu-title > 
+/* .ant-menu-submenu-arrow, */
 .menuList :hover {
   background-color: #3baa46 !important;
   color: white !important;
